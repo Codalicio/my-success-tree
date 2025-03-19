@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f40909;
+}
+
+.html {
+    font-size: 16px;
+}
+
+.Vishwa-Mohan {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 20px solid #cfd90bae;
+    border-radius: 70px;
+}
+
+.Mihun-S {
+    width: 50%;
+    border: 7px solid #036503;
+    text-align: center;
+    border-radius: 70px;
+}
+
+.Sandeepak-Singh {
+    width: 50vw;
+    border: 7px solid #036503;
+    text-align: center;
+    border-radius: 70px;
+}
+
+.Amit, .Raj {
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: #cfd90bae;
+    color: #f6faf7;
+    text-shadow: 1px 1px 1px #000, 3px 2px 2px #f3460c;
+    padding: 7px;
+}
