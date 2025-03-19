@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #f40909;
+    background-color: #e71414b5;
 }
 
 .html {
     font-size: 16px;
 }
 
-.Vishwa-Mohan {
+.Vishwa-Mohan_Master-Captain {
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -22,21 +22,21 @@ body {
     border-radius: 70px;
 }
 
-.Mihun-S {
+.Mihun-S_Chief-Mate {
     width: 50%;
     border: 7px solid #036503;
     text-align: center;
     border-radius: 70px;
 }
 
-.Sandeepak-Singh {
+.Sandeepak-Singh_Chief-Mate {
     width: 50vw;
     border: 7px solid #036503;
     text-align: center;
     border-radius: 70px;
 }
 
-.Amit, .Raj {
+.Amit_Ordinary-SeaMan, .Raj_Ordinary-SeaMan {
     font-size: 1.2em;
     font-weight: bold;
     background-color: #cfd90bae;
